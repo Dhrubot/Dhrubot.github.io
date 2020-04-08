@@ -1,11 +1,11 @@
 # Site settings
 author: Dhrubo Talukder
-title: 
+title: Chronicles of an aspiring Software Engineer
 header-img: img/home-bg.png
 email: dhrubo.dh@gmail.com
 copyright_name: Dhrubo Talukder
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A journal about learning to code.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Dhrubot
