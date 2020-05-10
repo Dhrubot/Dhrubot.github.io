@@ -10,8 +10,8 @@ So this passing week was the first major solo project of my coding life. We had 
 ```
 string.gsub /^\s+/, ""
 ```
-It's also worth to note that there is ruby string method that removes the whitespace from the beginning of the string too although I've never used it prior to this project. 
+It's also worth to note that there is a ruby string method that removes the whitespace from the beginning of the string too although I've never used it prior to this project. 
 ```
 string.lstrip
 ```
-These solutions magically took the problem away and made me interested to learn more about regex. I am still trying to learn about it but it seems really powerful and elegant way to solve problems. What do you guys think about this regex? If anyone has a suggestion about how to understand and master the skill of using regular expressions, please comments below!
+These solutions magically took the problem away and made me interested to learn more about regex. I am still trying to learn about it but it seems really powerful and elegant way to solve different kind of problems. What do you guys think about this regex? If anyone has a suggestion about how to understand and master the skill of using regular expressions, please comments below!
